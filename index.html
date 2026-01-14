@@ -1,0 +1,17 @@
+---
+layout: default
+title: Home
+---
+
+{% for post in site.posts %}
+<article>
+    <h2>🛸 <a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <div class="post-meta">
+        Posted on: {{ post.date | date: "%B %d, %Y" }} | By: {{ post.author }}
+    </div>
+    <div class="post-content">
+        {{ post.excerpt }}
+    </div>
+    <a href="{{ post.url | relative_url }}" class="read-more">READ MORE &gt;&gt;&gt;</a>
+</article>
+{% endfor %}
