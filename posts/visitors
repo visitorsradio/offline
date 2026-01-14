@@ -1,3 +1,0 @@
-mkdir visitors-are-real
-cd vistors-are-real
-jekyll new . --blank
