@@ -135,6 +135,25 @@ aside {
     text-decoration: underline;
 }
 
+/* Force paragraph spacing everywhere */
+main p {
+    margin-bottom: 15px !important;
+}
+
+article p {
+    margin-bottom: 15px !important;
+}
+
+.post-content p {
+    margin-bottom: 15px !important;
+}
+
+/* Also for the content area */
+main > p,
+article > p {
+    margin-bottom: 15px !important;
+}
+
 article {
     background: #ffffcc;
     border: 3px solid #000000;
