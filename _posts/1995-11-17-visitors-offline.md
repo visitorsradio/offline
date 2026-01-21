@@ -2,7 +2,7 @@
 layout: post
 title: "VISITORS OFFLINE"
 author: "Visitors Radio"
-date: 1995-11-17
+date: 1996-01-17
 ---
 
 Welcome to the next stage. The offline commencement has begun.
