@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "UFO SIGHTING in Albuqurque, NM on Route 66"
 author: "Visitors Radio"
 date: 1996-01-14
