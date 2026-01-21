@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: post
 title: "De-Sensitize"
 author: "Visitors Radio"
-date: 1995-12-01
+date: 1996-02-14
 ---
 
 Do people tell you you smell like shit?
