@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Enjoy Nostalgia Today"
 author: "Visitors Radio"
 date: 1995-12-17
