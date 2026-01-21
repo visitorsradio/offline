@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Musings Over Whiskey Asada"
 author: "Visitors Radio"
 date: 1996-01-04
