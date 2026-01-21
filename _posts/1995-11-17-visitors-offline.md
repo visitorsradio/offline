@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "VISITORS OFFLINE"
 author: "Visitors Radio"
 date: 1995-11-17
