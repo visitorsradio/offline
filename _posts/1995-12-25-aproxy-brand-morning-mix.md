@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Aproxy Brand Morning Mix"
 author: "Visitors Radio"
 date: 1995-12-25
