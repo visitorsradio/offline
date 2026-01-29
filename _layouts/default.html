@@ -15,8 +15,10 @@
         </header>
 
         <div class="marquee-container">
-            <marquee behavior="scroll" direction="left">🛸 BREAKING NEWS: New UFO sighting in Nevada! Government still hiding the truth! Click here for details! 🛸 AREA 51 WHISTLEBLOWER SPEAKS OUT! 🛸</marquee>
-        </div>
+    <a href="https://www.tiktok.com/@visitorsradio" target="_blank" style="text-decoration: none; color: #ff0000; display: block;">
+        <marquee behavior="scroll" direction="left">🛸 BREAKING NEWS: New UFO sighting in Nevada! New distress radio interception! LISTEN NOW! Click here for details! 🛸 GOVERNMENT IS HIDING THE TRUTH! 🛸</marquee>
+    </a>
+</div>
 
         <nav role="navigation" aria-label="Main navigation">
             <ul>
@@ -84,27 +86,43 @@
             </aside>
         </div>
 
-        <div class="counter">
-            <p style="color: #ffff00;"><strong>YOU ARE VISITOR NUMBER:</strong></p>
-            <p style="font-size: 1.5em; color: #00ff00;">⚡ 000847293 ⚡</p>
-            <p style="color: #ffffff; font-size: 0.8em; margin-top: 5px;">Best viewed in Netscape Navigator 4.0 or Internet Explorer 5.0</p>
-        </div>
+<div class="counter">
+    <p style="color: #ffff00;"><strong>YOU ARE VISITOR NUMBER:</strong></p>
+    <p style="font-size: 1.5em; color: #00ff00;">⚡ <span id="visitor-count">000847293</span> ⚡</p>
+    <p style="color: #ffffff; font-size: 0.8em; margin-top: 5px;">Best viewed in Netscape Navigator 4.0 or Internet Explorer 5.0</p>
+</div>
+
+<script>
+    // Get or initialize visitor count
+    let visitorCount = localStorage.getItem('visitorCount');
+    
+    if (!visitorCount) {
+        // Start at a random high number for that 90s feel
+        visitorCount = Math.floor(Math.random() * (900000 - 800000) + 800000);
+    } else {
+        visitorCount = parseInt(visitorCount);
+    }
+    
+    // Increment on each page load
+    visitorCount++;
+    
+    // Save the new count
+    localStorage.setItem('visitorCount', visitorCount);
+    
+    // Display it
+    document.getElementById('visitor-count').textContent = String(visitorCount).padStart(9, '0');
+</script>
 
         <footer role="contentinfo">
            <div class="webring">
     <p><strong>[ CONSPIRACY WEBRING ]</strong></p>
-    <p>
-        <a href="#" style="color: #00ff00;">&lt;&lt; PREV</a> | 
-        <a href="#" style="color: #00ff00;">RANDOM</a> | 
-        <a href="#" style="color: #00ff00;">NEXT &gt;&gt;</a>
-    </p>
 </div>
-            <p>© 1996-{{ 'now' | date: "%Y" }} The Truth Is Out There | All Rights Reserved</p>
+            <p>© 1996-{{ 'now' | date: "%Y" }} Visit Your Truth Today | All Rights Reserved</p>
             <p style="margin-top: 10px; font-size: 0.9em;">
-                <span class="blink">⚡ POWERED BY TRUTHSEEKER TECHNOLOGY ⚡</span>
+                <span class="blink">⚡ POWERED BY TRUTHSEEKING HYPERGLAND TECHNOLOGY ⚡</span>
             </p>
             <p style="margin-top: 10px; font-size: 0.8em;">
-                This site is best experienced with the lights off and your tin foil hat on.
+                You Have Visitors
             </p>
         </footer>
     </div>
