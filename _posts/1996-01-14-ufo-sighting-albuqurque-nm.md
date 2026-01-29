@@ -4,8 +4,6 @@ title: "UFO SIGHTING in Albuqurque, NM on Route 66"
 author: "Visitors Radio"
 date: 1996-01-14
 ---
-# Visitors Radio Update
-
 I'm back from my 2 week journey through New Mexico, and it was fruitful.
 
 First, let me catch you up, after the town hall drama that ensued last month.
