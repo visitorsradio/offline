@@ -4,8 +4,6 @@ title: "Musings Over Whiskey Asada"
 author: "Visitors Radio"
 date: 1996-01-04
 ---
-# Musings Over Whiskey Asada
-
 off the new sensation,  
 tired and weak  
 always trying something different  
