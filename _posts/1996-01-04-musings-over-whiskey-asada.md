@@ -15,7 +15,7 @@ But I won't be the man you want
 If I can't get my shit together  
 
 All the birds and bees are falling over  
-Under chestnut trees we're fallinng over  
+Under chestnut trees we're falling over  
 Hearts at Wounded Knee are falling over  
 The Aegean Sea is falling over  
 
