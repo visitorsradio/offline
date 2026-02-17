@@ -19,5 +19,5 @@ It had the same geometric light sequence, and was at the exact coordinates that 
 The chart spiral fractal bread crumbs straight to the peak of the Mojave as I first theorized. Assuming it follows the same pattern as it has in the past, which at this point, it seems that there is no reason it shouldn't, the next siting should be at the coordinates that I emailed to you all in Clark Mountain, CA. The time for the next Visit is 01:09, March 3rd.
 
 
-Hold your poles, and watch the skies,
+Hold your poles, and watch your skies,
 Visitors Offline.
