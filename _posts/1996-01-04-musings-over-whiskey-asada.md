@@ -4,33 +4,22 @@ title: "Musings Over Whiskey Asada"
 author: "Visitors Radio"
 date: 1996-01-04
 ---
-off the new sensation,  
-tired and weak  
-always trying something different  
-but i never find relief  
+Don't give way to superstition
+Planet Earth is on a mission
+If you stare into the light
+You'll lose your eyes but not your vision
 
-sirens in the distance  
-second time this week  
-take a twenty from the dresser  
-and let's all go out to eat  
+I could be the Lord's antenna
+I could be a perfect ten
+But I won't be the man you want
+If I can't get my shit together
 
-we all,  
-take our time  
-we all,  
-say our lines  
+All the birds and bees are falling over
+Under chestnut trees we're fallinng over
+Hearts at Wounded Knee are falling over
+The Aegean Sea is falling over
 
-
-now, i believe in patience  
-it's difficult for me  
-i'm a smooth operator  
-with a demon up my sleeve  
-
-staring through the looking glass  
-liking what you see  
-he's got the million dollar smile  
-with the ten cent teeth  
-
-we all,  
-take our time  
-we all,  
-say our lines  
+Local 413 is falling over
+Taller men than me are falling over
+Broken and unclean we're falling over
+Everything I see is falling over
