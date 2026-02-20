@@ -2,6 +2,7 @@
 layout: post
 title: "Musings Over Whiskey Asada"
 author: "Visitors Radio"
+description: "Everything Unseen Is Falling Over"
 date: 1996-01-04
 ---
 Don't give way to superstition  
