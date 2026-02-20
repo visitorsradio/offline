@@ -13,7 +13,7 @@ layout: null
   
   <!-- Visitors Offline Page -->
   <url>
-    <loc>{{ site.url }}/cd/</loc>
+    <loc>{{ site.url }}/offline/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
