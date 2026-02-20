@@ -2,9 +2,9 @@
 layout: post
 title: "Enjoy Nostalgia Today"
 author: "Visitors Radio"
+description: "Now comes in three different sizes!"
 date: 1995-12-17
 ---
-
 It's the smell of gasoline after a fresh cut lawn.
 
 It's holding your daughter, and feeling how much she needs you.
