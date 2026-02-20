@@ -5,7 +5,7 @@ baseurl: ""
 
 # Build settings
 markdown: kramdown
-permalink: /:title/
+permalink: /blog/:title/
 
 # Exclude files
 exclude:
