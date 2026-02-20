@@ -2,6 +2,7 @@
 layout: post
 title: "MOJAVE FILES UPDATE: Visitors Siting - Hoover Dam UFO"
 author: "Visitors Radio"
+description: "Inside scoop on the Congressional UFO Hearings that they don't want you to hear. New info on the 1947 Roswell Incident!"
 date: 1996-01-14
 ---
 I'm back from my 2 week journey through New Mexico and Utah, and it was fruitful. New Mexicoo was a wash, as expected, but that piece of the trip was to prove that this pattern is indeed isolated to the Mojave Desert.
@@ -19,5 +20,5 @@ It had the same geometric light sequence, and was at the exact coordinates that 
 The chart spiral fractal bread crumbs straight to the peak of the Mojave as I first theorized. Assuming it follows the same pattern as it has in the past, which at this point, it seems that there is no reason it shouldn't, the next siting should be at the coordinates that I emailed to you all in Clark Mountain, CA. The time for the next Visit is 01:09, March 3rd.
 
 
-Hold your poles, and watch your skies,
+Hold your poles, and watch the skies,
 Visitors Offline.
