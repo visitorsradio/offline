@@ -17,7 +17,9 @@ Now, I'm sure you're all wondering. Yes, I saw the same UFO pattern that I've be
 
 It had the same geometric light sequence, and was at the exact coordinates that I predicted from the last siting.
 
-The chart spiral fractal bread crumbs straight to the peak of the Mojave as I first theorized. Assuming it follows the same pattern as it has in the past, which at this point, it seems that there is no reason it shouldn't, the next siting should be at the coordinates that I emailed to you all in Clark Mountain, CA. The time for the next Visit is 00:00, 12 Jun 2026. I will see you there in 30 years, my friends.
+The chart spiral fractal bread crumbs straight to the peak of the Mojave as I first theorized. Assuming it follows the same pattern as it has in the past, which at this point, it seems that there is no reason it shouldn't, the next siting will be at the coordinates that I emailed to you all in Clark Mountain, CA. The time for the next Visit is scheduled for 00:00, 12 Jun 2026. 
+
+I will see you there in 30 years, my friends.
 
 
 Hold your poles, and watch the skies,
