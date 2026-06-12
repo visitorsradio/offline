@@ -10,4 +10,4 @@ Welcome to the next stage. The offline commencement has begun.
 
 We appreciate you being here.
 
-Visit your truth to find <a href="https://www.youtube.com/@visitorsradio">Visitors.</a>
+Visit your truth to find <a href="https://distrokid.com/hyperfollow/visitors6/offline">Visitors.</a>
